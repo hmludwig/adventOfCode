@@ -6,12 +6,15 @@ data.sort()
 no_solution1 = True
 no_solution2 = True
 
-for i in range(len(data)):
-    for j in range(len(data)):
-        for k in range(len(data)):
-            if no_solution1 and data[i] + data[j] == 2020:
-                print(f"Solution 1: {data[i] * data[j]}")
-                no_solution1 = False
-            if no_solution2 and data[i] + data[j] + data[k] == 2020:
-                print(f"Solution 2: {data[i] * data[j] * data[k]}")
-                no_solution2 = False
+for i, m in enumerate(data):
+    for j, n in enumerate(data):
+        for k, o in enumerate(data):
+            if not no_solution1 and not no_solution2:
+                break
+            if i != j and i != k and j != k:
+                if no_solution1 and m + n == 2020:
+                    print(f"Solution 1: {m * n}")
+                    no_solution1 = False
+                if no_solution2 and m + n + o == 2020:
+                    print(f"Solution 2: {m * n * o}")
+                    no_solution2 = False
