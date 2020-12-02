@@ -8,8 +8,8 @@ count2 = 0
 
 for i in range(0, len(data), 3):
     cminmax = data[i].split('-')
-    cmax = int(cminmax[0])
-    cmin = int(cminmax[1])
+    cmin = int(cminmax[0])
+    cmax = int(cminmax[1])
     csearch = data[i + 1][0]
     password = data[i + 2]
     if cmin <= password.count(csearch) <= cmax:
