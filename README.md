@@ -7,3 +7,4 @@
 |  03 | 0.002 seconds |
 |  04 | 0.019 seconds |
 |  05 | 0.007 seconds |
+|  06 | 0.005 seconds |
