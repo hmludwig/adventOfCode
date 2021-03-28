@@ -4,26 +4,14 @@
 
 ### Overall Stars Collected (54/300):  
 
-<details open>
-  <summary>2015 - Stars Collected (0/50)</summary>
-</details>
+* #### [2015](https://adventofcode.com/2015) - Stars Collected (50/50)  
 
-<details open>
-  <summary>2016 - Stars Collected (0/50)</summary>
-</details>
+* #### [2016](https://adventofcode.com/2016) - Stars Collected (50/50)
 
-<details open>
-  <summary>2017 - Stars Collected (0/50)</summary>
-</details>
+* #### [2017](https://adventofcode.com/2017) - Stars Collected (50/50)
 
-<details open>
-  <summary>2018 - Stars Collected (0/50)</summary>
-</details>
+* #### [2018](https://adventofcode.com/2018) - Stars Collected (50/50)
 
-<details open>
-  <summary>2019 - Stars Collected (22/50)</summary>
-</details>
+* #### [2019](https://adventofcode.com/2019) - Stars Collected (22/50)
 
-<details open>
-  <summary>2020 - Stars Collected (32/50)</summary>
-</details>
+* #### [2020](https://adventofcode.com/2020) - Stars Collected (32/50)
